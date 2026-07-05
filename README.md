@@ -19,18 +19,16 @@
     </button>
   </a>
 </p>
----
 
 ## 📦 Module Installation
 
 <p align="center">
   <a href="shadowrocket://install?module=https://raw.githubusercontent.com/lvbang1111111/ios/refs/heads/main/shadowrocket.sgmodule">
-    <button style="padding:12px 20px;font-size:16px;background:#1677ff;color:white;border:none;border-radius:8px;">
+    <button style="padding:12px 20px;font-size:16px;background:#1677ff;color:pink;border:none;border-radius:8px;">
       ➕ Install Config
     </button>
   </a>
 </p>
----
 
 ## ℹ️ Hướng dẫn
 - Nhấn nút để mở trực tiếp Shadowrocket
