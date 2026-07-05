@@ -13,22 +13,26 @@
 ## ⚙️ Configuration
 
 <p align="center">
-  <a href="shadowrocket://config/add/https://raw.githubusercontent.com/lvbang1111111/ios/refs/heads/main/shadowrocket.conf">
-    <button style="padding:12px 20px;font-size:16px;background:#1677ff;color:white;border:none;border-radius:8px;">
-      ➕ Install Config
-    </button>
+  <a href="shadowrocket://config/add/https://raw.githubusercontent.com/lvbang1111111/ios/refs/heads/main/shadowrocket.conf"
+     style="display:inline-block;padding:12px 22px;background:#1677ff;color:#fff;
+            text-decoration:none;border-radius:10px;font-size:16px;font-weight:600;">
+    ➕ Install Config
   </a>
 </p>
+
+---
 
 ## 📦 Module Installation
 
 <p align="center">
-  <a href="shadowrocket://install?module=https://raw.githubusercontent.com/lvbang1111111/ios/refs/heads/main/shadowrocket.sgmodule">
-    <button style="padding:12px 20px;font-size:16px;background:#1677ff;color:pink;border:none;border-radius:8px;">
-      ➕ Install Config
-    </button>
+  <a href="shadowrocket://install?module=https://raw.githubusercontent.com/lvbang1111111/ios/refs/heads/main/shadowrocket.sgmodule"
+     style="display:inline-block;padding:12px 22px;background:#22c55e;color:#fff;
+            text-decoration:none;border-radius:10px;font-size:16px;font-weight:600;">
+    📦 Install Module
   </a>
 </p>
+
+---
 
 ## ℹ️ Hướng dẫn
 - Nhấn nút để mở trực tiếp Shadowrocket
