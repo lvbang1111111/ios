@@ -1,7 +1,7 @@
 # 🚀 Shadowrocket Configuration Center
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/shadowrocket/shadowrocket.png" width="120" />
+  <img src="https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/assets/img/shadowrocket.webp" width="120" />
 </p>
 
 <p align="center">
