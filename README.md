@@ -70,23 +70,6 @@ Download from URL
 
 ---
 
-# 📂 Repository
-
-```
-.
-├── Modules/
-│   ├── *.sgmodule
-│   └── ...
-│
-├── Config/
-│   ├── *.conf
-│   └── ...
-│
-└── README.md
-```
-
----
-
 # 🔄 Update
 
 After importing from the **Raw URL**, Shadowrocket can check for updates automatically whenever the file is updated in this repository.
